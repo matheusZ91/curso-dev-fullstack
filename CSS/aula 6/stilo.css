@@ -1,0 +1,47 @@
+.matheus-B{
+width: 200px;
+margin-left:600px ;
+border: 2px solid black; /*shorthand */
+border-radius: 50%;                                     t
+margin-top: 100px;
+margin-bottom: 100px;
+margin-left: 500px;
+border: 1px solid green;
+
+
+padding: 10px ; espaçamento interno 
+
+
+
+
+}
+
+
+body{
+    background: color(srgb red green blue);
+}
+
+
+
+.foto{
+    width: 150px;
+}
+
+
+como nao consigo utilizar o css
+usaremos isso no html = 
+
+ <style>
+
+. certa classe que deseja alterar  {                                /* shorthand */    dentro dele           
+
+
+certa classe que deseja usar
+
+
+
+}
+
+
+
+</style>

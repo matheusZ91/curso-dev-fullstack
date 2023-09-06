@@ -1,0 +1,24 @@
+body{
+
+}
+
+.matheuskkj{
+
+    border: 10px solid black ; /* shorthand */
+    border-radius: 150px ; formato das bordas ( redondas ou etc)
+    border-radius: 50  10  30 70  ; dar formas as laterais das suas fotos  colocando as % porcentagens
+/*
+
+   /*
+
+    border-width: 5px ;
+    border-style: solid;
+   border-color: black;
+ */
+
+
+
+}
+   
+
+dar  borda a imagens adicionadas + class="  "

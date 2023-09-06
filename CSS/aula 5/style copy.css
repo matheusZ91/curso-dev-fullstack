@@ -1,0 +1,68 @@
+body{
+
+}
+
+.matheus-moraes{
+
+  width: 200px; tamanho das imagens 
+  border: 100px solid #000000 ; cor das bordas
+  border-radius: 50%; expessura das imagens 
+  margin-top: 30px; posição das imagens para cima
+  margin-bottom: 100px; posição das imagen par baixo
+  margin-left:500px ; posição para a esquerda 
+
+
+  margin:  10px 20px 30px 40px ; = cima direita  baixo esquerda
+
+
+
+  
+/*
+
+   /*
+
+    border-width: 5px ;
+    border-style: solid;
+   border-color: black;
+ */
+}
+   
+
+dar  borda a imagens adicionadas + class="  "
+
+
+
+.foto{
+  width: 150px;
+}
+
+
+como nao consigo utilizar o css
+usaremos isso no html = 
+
+<style>
+
+. certa classe que deseja alterar  {                                /* shorthand */    dentro dele           
+
+
+certa classe que deseja usar
+
+Exemplos:
+ 
+width: 200px; tamanho das imagens 
+  border: 100px solid #000000 ; cor das bordas
+  border-radius: 50%; expessura das imagens 
+  margin-top: 30px; posição das imagens para cima
+  margin-bottom: 100px; posição das imagen par baixo
+  margin-left:500px ; posição para a esquerda 
+
+
+}
+
+
+
+</style>
+
+
+
+
